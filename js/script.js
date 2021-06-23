@@ -50,7 +50,7 @@ window.addEventListener('DOMContentLoaded', ()=> {
 
 //clockTimer
 
-const deadline = "2021-06-18";
+const deadline = "2021-07-18";
 
 function getTime (endtime) {
     const t = Date.parse(endtime)- Date.parse(new Date()),
